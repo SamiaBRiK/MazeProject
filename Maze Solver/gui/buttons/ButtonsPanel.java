@@ -2,7 +2,7 @@ package gui.buttons;
 
 import javax.swing.JPanel;
 
-import interfaceutilisateur.MazeApp;
+import gui.MazeApp;
 
 import java.awt.*;
 

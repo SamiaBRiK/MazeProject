@@ -2,7 +2,7 @@ package gui;
 
 import javax.swing.*;
 
-import interfaceutilisateur.buttons.ButtonsPanel;
+import gui.buttons.ButtonsPanel;
 
 import java.awt.*;
 import java.io.IOException;

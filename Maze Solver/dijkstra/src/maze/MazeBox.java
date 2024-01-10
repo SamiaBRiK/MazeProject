@@ -1,6 +1,6 @@
 package dijkstra.src.maze;
 
-import tp04.src.graph.Vertex;
+import dijkstra.src.graph.Vertex;
 
 public abstract class MazeBox implements Vertex{
     private final int x ;

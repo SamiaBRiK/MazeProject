@@ -9,8 +9,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import interfaceutilisateur.MazeApp;
-import interfaceutilisateur.MazeAppModel;
+import gui.MazeApp;
+import gui.MazeAppModel;
 
 public class NewMazeButton extends JButton{
     

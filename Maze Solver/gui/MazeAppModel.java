@@ -12,12 +12,12 @@ import java.util.ArrayList;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import tp04.src.graph.Dijkstra;
-import tp04.src.graph.ShortestPaths;
-import tp04.src.graph.Vertex;
-import tp04.src.maze.Maze;
-import tp04.src.maze.MazeBox;
-import tp04.src.maze.MazeReadingException;
+import dijkstra.src.graph.Dijkstra;
+import dijkstra.src.graph.ShortestPaths;
+import dijkstra.src.graph.Vertex;
+import dijkstra.src.maze.Maze;
+import dijkstra.src.maze.MazeBox;
+import dijkstra.src.maze.MazeReadingException;
 
 public class MazeAppModel {
     private int height = 10;

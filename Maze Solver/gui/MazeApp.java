@@ -6,8 +6,8 @@ import javax.swing.JFrame;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import interfaceutilisateur.menustuff.MenuBar;
-import tp04.src.maze.MazeReadingException;
+import gui.menustuff.MenuBar;
+import dijkstra.src.maze.MazeReadingException;
 
 public class MazeApp extends JFrame implements ChangeListener{
     public final MenuBar menuBar;

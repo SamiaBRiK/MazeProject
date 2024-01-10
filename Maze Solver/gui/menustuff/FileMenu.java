@@ -2,7 +2,7 @@ package gui.menustuff;
 
 import javax.swing.JMenu;
 
-import interfaceutilisateur.MazeApp;
+import gui.MazeApp;
 
 public class FileMenu extends JMenu{
 

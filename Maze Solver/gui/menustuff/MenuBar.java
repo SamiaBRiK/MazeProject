@@ -2,7 +2,7 @@ package gui.menustuff;
 
 import javax.swing.JMenuBar;
 
-import interfaceutilisateur.MazeApp;
+import gui.MazeApp;
 
 public class MenuBar extends JMenuBar {
 

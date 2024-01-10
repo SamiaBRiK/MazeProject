@@ -3,8 +3,8 @@ package gui.buttons;
 import javax.swing.JButton;
 import java.awt.event.*;
 
-import interfaceutilisateur.MazeApp;
-import interfaceutilisateur.MazeAppModel;
+import gui.MazeApp;
+import gui.MazeAppModel;
 
 public class TypeButton extends JButton implements ActionListener{
 

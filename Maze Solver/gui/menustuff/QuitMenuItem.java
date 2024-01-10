@@ -8,8 +8,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 
-import interfaceutilisateur.MazeApp;
-import interfaceutilisateur.MazeAppModel;
+import gui.MazeApp;
+import gui.MazeAppModel;
 
 public class QuitMenuItem extends JMenuItem implements ActionListener{
     

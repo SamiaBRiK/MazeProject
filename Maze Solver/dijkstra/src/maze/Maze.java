@@ -8,8 +8,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-import tp04.src.graph.Graph;
-import tp04.src.graph.Vertex;
+import dijkstra.src.graph.Graph;
+import dijkstra.src.graph.Vertex;
 
 public class Maze implements Graph{
     private int height ;

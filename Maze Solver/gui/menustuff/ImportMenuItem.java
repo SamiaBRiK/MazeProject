@@ -7,9 +7,9 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-import interfaceutilisateur.MazeApp;
-import interfaceutilisateur.MazeAppModel;
-import tp04.src.maze.MazeReadingException;
+import gui.MazeApp;
+import gui.MazeAppModel;
+import dijkstra.src.maze.MazeReadingException;
 
 public class ImportMenuItem extends JMenuItem implements ActionListener{
     
