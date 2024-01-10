@@ -1,4 +1,4 @@
-package interfaceutilisateur;
+package gui;
 
 import javax.swing.JPanel;
 import java.awt.*;

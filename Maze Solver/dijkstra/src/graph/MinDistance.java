@@ -1,4 +1,4 @@
-package tp04.src.graph;
+package dijkstra.src.graph;
 
 public interface MinDistance {
     /**

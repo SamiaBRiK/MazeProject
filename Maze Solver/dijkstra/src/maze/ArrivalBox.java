@@ -1,4 +1,4 @@
-package tp04.src.maze;
+package dijkstra.src.maze;
 
 public class ArrivalBox extends MazeBox {
 

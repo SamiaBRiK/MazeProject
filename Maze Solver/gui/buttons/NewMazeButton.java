@@ -1,4 +1,4 @@
-package interfaceutilisateur.buttons;
+package gui.buttons;
 
 import java.awt.Color;
 

@@ -1,4 +1,4 @@
-package interfaceutilisateur;
+package gui;
 
 public class Box {
     private int x;

@@ -1,4 +1,4 @@
-package tp04.src.graph;
+package dijkstra.src.graph;
 
 import java.util.ArrayList;
 import java.util.HashMap;

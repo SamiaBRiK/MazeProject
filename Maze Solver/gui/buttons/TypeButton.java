@@ -1,4 +1,4 @@
-package interfaceutilisateur.buttons;
+package gui.buttons;
 
 import javax.swing.JButton;
 import java.awt.event.*;
