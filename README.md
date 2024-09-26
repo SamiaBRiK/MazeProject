@@ -14,3 +14,6 @@ The Maze Project is a Java-based application that implements a maze solver using
 
 - Java
 - Swing (for GUI)
+
+<img width="603" alt="maze" src="https://github.com/user-attachments/assets/6e78acf8-fc90-49a5-bc22-e6442b52c366">
+
